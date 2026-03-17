@@ -40,5 +40,5 @@ iv) Business Impact and Insights : The dashboard helps HR teams quickly identify
    Employees of age group 26-35 left more
    
    
-6. Screenshort
-See what the dashboard look like: 
+6.) Screenshort
+See what the dashboard looks like:(https://github.com/Aparna2023-creator/HR-analysis/blob/main/HR%20dashboard.png)
